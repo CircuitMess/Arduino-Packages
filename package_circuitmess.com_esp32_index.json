@@ -17,7 +17,7 @@
           "help": {
             "online": ""
           },
-          "version": "1.1.0",
+          "version": "1.1.1",
           "architecture": "esp32",
           "archiveFileName": "esp32-1.1.0.zip",
           "boards": [

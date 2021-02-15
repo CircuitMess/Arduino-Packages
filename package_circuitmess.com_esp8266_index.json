@@ -13,7 +13,7 @@
           "category": "ESP8266",
           "name": "CircuitMess ESP8266 Boards",
           "url": "https://github.com/CircuitMess/Arduino-Packages/releases/download/esp8266-v1.0.0/esp8266-v1.0.0.zip",
-          "version": "1.0.0",
+          "version": "1.0.1",
           "architecture": "esp8266",
           "archiveFileName": "esp8266-v1.0.0.zip",
           "boards": [
