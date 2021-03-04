@@ -12,10 +12,10 @@
         {
           "category": "ESP8266",
           "name": "CircuitMess ESP8266 Boards",
-          "url": "https://github.com/CircuitMess/Arduino-Packages/releases/download/esp8266-v1.0.0/esp8266-v1.0.0.zip",
-          "version": "1.0.0",
+          "url": "https://github.com/CircuitMess/Arduino-Packages/releases/download/esp8266-v1.0.1/esp8266-v1.0.1.zip",
+          "version": "1.0.1",
           "architecture": "esp8266",
-          "archiveFileName": "esp8266-v1.0.0.zip",
+          "archiveFileName": "esp8266-v1.0.1.zip",
           "boards": [
             {
               "name": "Nibble"
@@ -41,16 +41,69 @@
               "packager": "cm",
               "version": "3.7.2-post1",
               "name": "python3"
+            },
+            {
+              "packager": "cm",
+              "version": "3.0.0",
+              "name": "esptool_py"
             }
           ],
           "help": {
             "online": ""
           },
-          "size": "35891597",
-          "checksum": "SHA-256:aa3964026f11166e82a3fd550b70b19b614abc5703a5f8e736a1915e99344c85"
+          "size": "37114439",
+          "checksum": "SHA-256:e67cdd19d26fda132ddedac1355b5a1acb2dbe29dc12cc3bd1de2f2a21dde1bf"
         }
       ],
       "tools": [
+        {
+          "name": "esptool_py",
+          "version": "3.0.0",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "url": "https://dl.espressif.com/dl/esptool-3.0.0.2-windows.zip",
+              "archiveFileName": "esptool-3.0.0.2-windows.zip",
+              "checksum": "SHA-256:b192bfc1545a3c92658ce586b4edcc2aca3f0ad4b3fa8417d658bc8a48f1387e",
+              "size": "3434736"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "url": "https://dl.espressif.com/dl/esptool-3.0.0.2-macos.tar.gz",
+              "archiveFileName": "esptool-3.0.0.2-macos.tar.gz",
+              "checksum": "SHA-256:2cafab7f1ebce89475b84c115548eaace40b6366d7b3f9862cdb2fc64f806643",
+              "size": "3849615"
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "url": "https://dl.espressif.com/dl/esptool-3.0.0.2-linux.tar.gz",
+              "archiveFileName": "esptool-3.0.0.2-linux.tar.gz",
+              "checksum": "SHA-256:d5cb51da1c74ff69f81b820470d2ecccb5c7c3a2dec7776483d4c89588b00020",
+              "size": "57526"
+            },
+            {
+              "host": "i686-pc-linux-gnu",
+              "url": "https://dl.espressif.com/dl/esptool-3.0.0.2-linux.tar.gz",
+              "archiveFileName": "esptool-3.0.0.2-linux.tar.gz",
+              "checksum": "SHA-256:d5cb51da1c74ff69f81b820470d2ecccb5c7c3a2dec7776483d4c89588b00020",
+              "size": "57526"
+            },
+            {
+              "host": "arm-linux-gnueabihf",
+              "url": "https://dl.espressif.com/dl/esptool-3.0.0.2-linux.tar.gz",
+              "archiveFileName": "esptool-3.0.0.2-linux.tar.gz",
+              "checksum": "SHA-256:d5cb51da1c74ff69f81b820470d2ecccb5c7c3a2dec7776483d4c89588b00020",
+              "size": "57526"
+            },
+            {
+              "host": "aarch64-linux-gnu",
+              "url": "https://dl.espressif.com/dl/esptool-3.0.0.2-linux.tar.gz",
+              "archiveFileName": "esptool-3.0.0.2-linux.tar.gz",
+              "checksum": "SHA-256:d5cb51da1c74ff69f81b820470d2ecccb5c7c3a2dec7776483d4c89588b00020",
+              "size": "57526"
+            }
+          ]
+        },
         {
           "version": "3.7.2-post1",
           "name": "python3",
