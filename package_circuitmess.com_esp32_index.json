@@ -11,22 +11,26 @@
         {
           "category": "ESP32",
           "name": "CircuitMess ESP32 Boards",
-          "url": "https://github.com/CircuitMess/Arduino-Packages/releases/download/esp32-v1.1.0/esp32-v1.1.0.zip",
-          "checksum": "SHA-256:afe7dbd9ecb86e698491059349438abc0a9207dff9f4928fab4197a4b8a80663",
-          "size": "42252685",
+          "url": "https://github.com/CircuitMess/Arduino-Packages/releases/download/esp32-v1.2.0/esp32-v1.2.0.zip",
+          "checksum": "SHA-256:131a32d87f843f7c91968cc9a232a3ca3f76ab713886045d5e21d6779b6966ab",
+          "size": "48404657",
           "help": {
             "online": ""
           },
-          "version": "1.1.1",
+          "version": "1.2.0",
           "architecture": "esp32",
-          "archiveFileName": "esp32-1.1.0.zip",
+          "archiveFileName": "esp32-v1.2.0.zip",
           "boards": [
             {
               "name": "Ringo by CircuitMess"
             },
             {
               "name": "Spencer by CircuitMess"
+            },
+            {
+              "name": "Jay-D by CircuitMess"
             }
+
           ],
           "toolsDependencies": [
             {
