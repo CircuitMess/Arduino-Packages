@@ -11,15 +11,15 @@
         {
           "category": "ESP32",
           "name": "CircuitMess ESP32 Boards",
-          "url": "https://github.com/CircuitMess/Arduino-Packages/releases/download/esp32-v1.2.0/esp32-v1.2.0.zip",
-          "checksum": "SHA-256:131a32d87f843f7c91968cc9a232a3ca3f76ab713886045d5e21d6779b6966ab",
-          "size": "48404657",
+          "url": "https://github.com/CircuitMess/Arduino-Packages/releases/download/esp32-v1.2.1/esp32-v1.2.1.zip",
+          "checksum": "SHA-256:e2276832f85df06ddc0e899f977c3f6e6611f897023a8e0f7f286f1ff2db01d0",
+          "size": "49042593",
           "help": {
             "online": ""
           },
-          "version": "1.2.0",
+          "version": "1.2.1",
           "architecture": "esp32",
-          "archiveFileName": "esp32-v1.2.0.zip",
+          "archiveFileName": "esp32-v1.2.1.zip",
           "boards": [
             {
               "name": "Ringo by CircuitMess"
