@@ -1,6 +1,7 @@
 {
   "packages": [
     {
+      "name": "cm",
       "maintainer": "CircuitMess",
       "help": {
         "online": "https://www.circuitmess.com/"
@@ -305,9 +306,7 @@
             }
           ]
         }
-      ],
-      "email": "robert@circuitmess.com",
-      "name": "cm"
+      ]
     }
   ]
 }
