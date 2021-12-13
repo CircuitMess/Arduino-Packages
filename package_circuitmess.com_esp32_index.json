@@ -12,15 +12,15 @@
         {
           "category": "ESP32",
           "name": "CircuitMess ESP32 Boards",
-          "url": "https://github.com/CircuitMess/Arduino-Packages/releases/download/esp32-v1.2.4/esp32-v1.2.4.zip",
-          "checksum": "SHA-256:9a9785ce28f50ebcaea788b70bce89432961420f5a39a152cb315abb7a9e1ba1",
-          "size": "55652525",
+          "url": "https://github.com/CircuitMess/Arduino-Packages/releases/download/esp32-v1.3.0/esp32-v1.3.0.zip",
+          "checksum": "SHA-256:7f9339baf42941e662433a32280fd5f9b486f3f9d844adf17808dfe2fa00b3f7",
+          "size": "103368004",
           "help": {
             "online": ""
           },
-          "version": "1.2.4",
+          "version": "1.3.0",
           "architecture": "esp32",
-          "archiveFileName": "esp32-v1.2.4.zip",
+          "archiveFileName": "esp32-v1.3.0.zip",
           "boards": [
             {
               "name": "Ringo by CircuitMess"
@@ -33,6 +33,9 @@
             },
             {
               "name": "Wheelson by CircuitMess"
+            },
+            {
+              "name": "ByteBoi by CircuitMess"
             }
           ],
           "toolsDependencies": [
