@@ -12,13 +12,13 @@
         {
           "category": "ESP8266",
           "name": "CircuitMess ESP8266 Boards",
-          "url": "https://github.com/CircuitMess/Arduino-Packages/releases/download/esp8266-v1.0.1/esp8266-v1.0.1.zip",
-          "version": "1.0.1",
+          "url": "https://github.com/CircuitMess/Arduino-Packages/releases/download/esp8266-v1.1.0/esp8266-v1.1.0.zip",
+          "version": "1.1.0",
           "architecture": "esp8266",
-          "archiveFileName": "esp8266-v1.0.1.zip",
+          "archiveFileName": "esp8266-v1.1.0.zip",
           "boards": [
             {
-              "name": "Nibble"
+              "name": "Nibble by CircuitMess"
             }
           ],
           "toolsDependencies": [
@@ -51,8 +51,8 @@
           "help": {
             "online": ""
           },
-          "size": "37114439",
-          "checksum": "SHA-256:e67cdd19d26fda132ddedac1355b5a1acb2dbe29dc12cc3bd1de2f2a21dde1bf"
+          "size": "40950823",
+          "checksum": "SHA-256:1d54db0b7d9b3f8e870743a199dc7f865709fdaf522efedec37ba968503784b2"
         }
       ],
       "tools": [
