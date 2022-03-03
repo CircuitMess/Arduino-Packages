@@ -22,4 +22,4 @@ You can install the platforms manually using the Arduino IDE.
 * Close the preferences by clicking OK
 * Open the Board Manager under Tools -> Board -> Boards Manager...
 * Type 'CircuitMess' in the search bar
-* Click the Install button on the packages you with to install
+* Click the Install button on the packages you want to install
