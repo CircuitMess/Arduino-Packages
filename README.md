@@ -4,7 +4,7 @@ This repo contains platforms and board definitions for CircuitMess' devices.
 Archives containing platforms can be found on the [releases page](https://github.com/CircuitMess/Arduino-Packages/releases). The package indexes are commited to the repo.
 
 ## Devices
-* ESP32: Ringo, Spencer, Jay-D
+* ESP32: Ringo, Spencer, Jay-D, Wheelson, ByteBoi, Chatter
 * ESP8266: Nibble
 
 # Installation
