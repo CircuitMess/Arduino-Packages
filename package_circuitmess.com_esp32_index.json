@@ -12,6 +12,59 @@
         {
           "category": "ESP32",
           "name": "CircuitMess ESP32 Boards",
+          "url": "https://github.com/CircuitMess/Arduino-Packages/releases/download/esp32-v1.5.1/esp32-v1.5.1.zip",
+          "checksum": "SHA-256:d94c28f2d837da28670684a6f4591c7d468e64d5757ac0bc16a4ba2188dedfde",
+          "size": "115266415",
+          "help": {
+            "online": ""
+          },
+          "version": "1.5.1",
+          "architecture": "esp32",
+          "archiveFileName": "esp32-v1.5.1.zip",
+          "boards": [
+            {
+              "name": "Ringo by CircuitMess"
+            },
+            {
+              "name": "Spencer by CircuitMess"
+            },
+            {
+              "name": "Jay-D by CircuitMess"
+            },
+            {
+              "name": "Wheelson by CircuitMess"
+            },
+            {
+              "name": "ByteBoi by CircuitMess"
+            },
+            {
+              "name": "Chatter by CircuitMess"
+            },
+            {
+              "name": "Synthia by CircuitMess"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "cm",
+              "version": "1.22.0-80-g6c4433a-5.2.0",
+              "name": "xtensa-esp32-elf-gcc"
+            },
+            {
+              "packager": "cm",
+              "version": "3.0.0",
+              "name": "esptool_py"
+            },
+            {
+              "packager": "cm",
+              "version": "0.2.3",
+              "name": "mkspiffs"
+            }
+          ]
+        },
+        {
+          "category": "ESP32",
+          "name": "CircuitMess ESP32 Boards",
           "url": "https://github.com/CircuitMess/Arduino-Packages/releases/download/esp32-v1.5.0/esp32-v1.5.0.zip",
           "checksum": "SHA-256:b1c4b1322bc581e759544d4dbb206626ce1e1f26824a66222a2e0d476c1d16fb",
           "size": "115265594",
