@@ -12,6 +12,74 @@
         {
           "category": "ESP32",
           "name": "CircuitMess ESP32 Boards",
+          "url": "https://github.com/CircuitMess/Arduino-Packages/releases/download/esp32-v1.7.0/esp32-v1.7.0.zip",
+          "checksum": "SHA-256:5713B84A5CECF1F2FB3170970D63776D1FEAC25008308A895631A68B00CDEC27",
+          "size": "132164718",
+          "help": {
+            "online": ""
+          },
+          "version": "1.7.0",
+          "architecture": "esp32",
+          "archiveFileName": "esp32-v1.7.0.zip",
+          "boards": [
+            {
+              "name": "Ringo by CircuitMess"
+            },
+            {
+              "name": "Spencer by CircuitMess"
+            },
+            {
+              "name": "Jay-D by CircuitMess"
+            },
+            {
+              "name": "Wheelson by CircuitMess"
+            },
+            {
+              "name": "ByteBoi by CircuitMess"
+            },
+            {
+              "name": "Chatter by CircuitMess"
+            },
+            {
+              "name": "Synthia by CircuitMess"
+            },
+            {
+              "name": "CircuitPet by CircuitMess"
+            },
+            {
+              "name": "BatController by CircuitMess"
+            },
+            {
+              "name": "Batmobile by CircuitMess"
+            },
+            {
+              "name": "Clockstar by CircuitMess"
+            },
+            {
+              "name": "Armstrong by CircuitMess"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "cm",
+              "version": "1.22.0-80-g6c4433a-5.2.0",
+              "name": "xtensa-esp32-elf-gcc"
+            },
+            {
+              "packager": "cm",
+              "version": "3.0.0",
+              "name": "esptool_py"
+            },
+            {
+              "packager": "cm",
+              "version": "0.2.3",
+              "name": "mkspiffs"
+            }
+          ]
+        },
+        {
+          "category": "ESP32",
+          "name": "CircuitMess ESP32 Boards",
           "url": "https://github.com/CircuitMess/Arduino-Packages/releases/download/esp32-v1.6.2/esp32-v1.6.2.zip",
           "checksum": "SHA-256:ef66faf34fbc2c54d1d428cb0651da0ede2185bf7690226b372cadc6731e9c50",
           "size": "122224131",
