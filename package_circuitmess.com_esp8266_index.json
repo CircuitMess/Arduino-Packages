@@ -12,6 +12,51 @@
         {
           "category": "ESP8266",
           "name": "CircuitMess ESP8266 Boards",
+          "url": "https://github.com/CircuitMess/Arduino-Packages/releases/download/esp8266-v1.2.2/esp8266-v1.2.2.zip",
+          "version": "1.2.2",
+          "architecture": "esp8266",
+          "archiveFileName": "esp8266-v1.2.2.zip",
+          "boards": [
+            {
+              "name": "Nibble by CircuitMess"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "cm",
+              "version": "2.5.0-4-b40a506",
+              "name": "xtensa-lx106-elf-gcc"
+            },
+            {
+              "packager": "cm",
+              "version": "2.5.0-4-b40a506",
+              "name": "mkspiffs"
+            },
+            {
+              "packager": "cm",
+              "version": "2.5.0-4-fe5bb56",
+              "name": "mklittlefs"
+            },
+            {
+              "packager": "cm",
+              "version": "3.7.2-post1",
+              "name": "python3"
+            },
+            {
+              "packager": "cm",
+              "version": "3.0.0",
+              "name": "esptool_py"
+            }
+          ],
+          "help": {
+            "online": ""
+          },
+          "size": "40079538",
+          "checksum": "SHA-256:5093330210772abf598d28df60a3a708d758b2ec4c1a78676a374cc0e5aca8d3"
+        },
+        {
+          "category": "ESP8266",
+          "name": "CircuitMess ESP8266 Boards",
           "url": "https://github.com/CircuitMess/Arduino-Packages/releases/download/esp8266-v1.2.1/esp8266-v1.2.1.zip",
           "version": "1.2.1",
           "architecture": "esp8266",
